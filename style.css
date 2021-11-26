@@ -146,7 +146,7 @@ color: var(--grayish-blue);
      header{
          margin: 10px 50px;
          width: auto;
-         height: 20vh;;
+         height: auto;
          text-align: center;
      }
 
